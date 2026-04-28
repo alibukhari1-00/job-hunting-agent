@@ -7,6 +7,7 @@ generates actionable reports, tracks applications, and prepares you for intervie
 
 ## Features
 
+### Core Features
 - **Job Analysis** — Extracts required skills from job postings
 - **Skill Gap Analysis** — Compares job requirements vs your resume skills with a match score
 - **Resume Suggestions** — Tailored advice to improve your resume for each role
@@ -15,7 +16,15 @@ generates actionable reports, tracks applications, and prepares you for intervie
 - **Smart Reminders** — Context-aware reminders based on application status
 - **Resume Scoring** — Multi-factor resume score (skills + length + action verbs)
 - **Cover Letter Generator** — Personalized cover letters based on matched skills
-- **Menu Interface** — Interactive CLI for all features
+
+### Advanced Features (NEW)
+1. **Menu-Based File Selection** — Choose specific job/resume files or analyze all at once
+2. **Project-to-Job Mapping** — Maps your resume projects to job requirements
+3. **Interview Answer Generator** — Sample answers for common technical questions
+4. **Preparation Checklist** — Pre-interview checklist with skills to revise and projects to review
+5. **Reminder Urgency System** — Categorizes reminders by urgency (Overdue, Today, Tomorrow, This Week)
+6. **LinkedIn Message Generator** — Professional recruiter outreach messages
+7. **JSON Memory System** — Saves agent state for tracking progress over time
 
 ---
 
@@ -59,13 +68,18 @@ You will see an interactive menu:
 ==================================================
   CareerPrep Job-Hunting Agent
 ==================================================
-  1. Run Full Agent Pipeline
-  2. Score My Resume
-  3. Generate Cover Letter
-  4. View Application Tracker
-  5. Add Application to Tracker
-  6. View Reminders
-  0. Exit
+  1.  Run Full Agent Pipeline
+  2.  Score My Resume
+  3.  Generate Cover Letter
+  4.  View Application Tracker
+  5.  Add Application to Tracker
+  6.  View Reminders (with urgency)
+  7.  Generate Project-to-Job Mapping
+  8.  Generate Interview Answers
+  9.  Generate Preparation Checklist
+  10. Generate LinkedIn Message
+  11. View Agent Memory
+  0.  Exit
 ==================================================
 ```
 
@@ -88,12 +102,17 @@ All outputs are saved to `outputs/`:
 | `skill_gap_report.txt` | Match score, matched and missing skills |
 | `tailored_resume_suggestions.txt` | Resume improvement recommendations |
 | `interview_questions.txt` | Role-specific interview questions |
+| `interview_answers.txt` | Sample answers for interview questions |
+| `project_mapping.txt` | Resume projects mapped to job requirements |
+| `preparation_checklist.txt` | Pre-interview preparation checklist |
+| `linkedin_message.txt` | Recruiter outreach message |
 | `resume_score_report.txt` | Multi-factor resume score |
 | `cover_letter_<Company>.txt` | Generated cover letter |
-| `reminders.txt` | Application reminders and follow-ups |
+| `reminders.txt` | Urgency-categorized application reminders |
 | `final_agent_report.txt` | Consolidated full report |
 
 Application data is saved to `tracker/applications.csv`.
+Agent memory is saved to `tracker/memory.json`.
 
 ---
 

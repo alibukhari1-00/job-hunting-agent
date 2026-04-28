@@ -10,14 +10,14 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from app import (
     run_agent, score_resume, generate_cover_letter,
-    read_text_files, load_tracker
+    read_text_files, load_tracker, load_memory
 )
 
 print("=" * 60)
-print("CareerPrep Agent — Validation Run")
+print("CareerPrep Agent — Validation Run (All Features)")
 print("=" * 60)
 
-# 1. Full pipeline
+# 1. Full pipeline (includes all 7 new features)
 score, matched, missing = run_agent()
 print(f"\n[Pipeline] Match Score : {score}%")
 print(f"[Pipeline] Matched     : {len(matched)} skills")
@@ -39,7 +39,13 @@ print(f"\n[Tracker] {len(rows)} application(s) tracked")
 for r in rows:
     print(f"  {r['application_id']} | {r['company']:<20} | {r['role']:<20} | {r['status']}")
 
-# 5. Output files
+# 5. Memory
+memory = load_memory()
+if memory:
+    print(f"\n[Memory] Timestamp: {memory.get('timestamp')}")
+    print(f"[Memory] Score    : {memory.get('match_score')}%")
+
+# 6. Output files
 outputs = sorted(os.listdir("outputs"))
 print(f"\n[Outputs] {len(outputs)} file(s) in outputs/")
 for f in outputs:
