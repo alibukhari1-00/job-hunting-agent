@@ -1,0 +1,10 @@
+============================================================
+RESUME SCORING REPORT
+Generated: 2025-01-20 14:30:00
+============================================================
+  Skill Match Score  : 85.0%
+  Resume Length Score: 100.0% (word count: 412)
+  Action Verb Score  : 80% (8 verbs found)
+  FINAL RESUME SCORE : 89.0 / 100
+
+  Grade: A — Excellent

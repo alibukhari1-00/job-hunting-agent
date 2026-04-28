@@ -1,0 +1,37 @@
+JOB HUNTING KNOWLEDGE BASE
+
+RESUME TIPS:
+- Tailor your resume for each job application
+- Use keywords from the job description
+- Quantify achievements with numbers and percentages
+- Keep resume to 1-2 pages maximum
+- Use a clean, ATS-friendly format
+- Include a strong summary statement
+
+INTERVIEW TIPS:
+- Research the company thoroughly before the interview
+- Prepare STAR method answers (Situation, Task, Action, Result)
+- Practice common technical questions for your field
+- Prepare 3-5 questions to ask the interviewer
+- Send a thank-you email within 24 hours
+
+NETWORKING TIPS:
+- Update LinkedIn profile with keywords
+- Connect with professionals in your target field
+- Attend industry meetups and conferences
+- Engage with company posts before applying
+- Ask for informational interviews
+
+APPLICATION STRATEGY:
+- Apply to 5-10 positions per week
+- Track all applications in a spreadsheet
+- Follow up after 7-10 days if no response
+- Customize cover letter for each application
+- Apply within 48 hours of job posting
+
+SKILL DEVELOPMENT:
+- Focus on in-demand skills: Python, ML, Cloud, SQL
+- Build a portfolio of 3-5 strong projects
+- Contribute to open source on GitHub
+- Get relevant certifications (AWS, Google, Coursera)
+- Practice coding on LeetCode and HackerRank

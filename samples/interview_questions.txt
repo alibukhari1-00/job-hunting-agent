@@ -1,0 +1,63 @@
+============================================================
+INTERVIEW PREPARATION QUESTIONS
+Generated: 2025-01-20 14:30:00
+============================================================
+
+ROLE-SPECIFIC QUESTIONS (based on job requirements):
+----------------------------------------
+
+  [AGILE]
+  Q: How do you manage sprint planning and retrospectives?
+
+  [API]
+  Q: How do you design a RESTful API? Describe versioning.
+
+  [AWS]
+  Q: Describe a cloud architecture you have designed.
+
+  [COMMUNICATION]
+  Q: Describe a time you explained a technical concept to a non-technical stakeholder.
+
+  [DATA ANALYSIS]
+  Q: Describe your data cleaning process for a messy dataset.
+
+  [DEEP LEARNING]
+  Q: Compare CNNs and RNNs — when do you use each?
+
+  [DOCKER]
+  Q: What is the difference between an image and a container?
+
+  [FLASK]
+  Q: How do you secure a Flask REST API?
+
+  [GIT]
+  Q: Explain Git branching strategy for a team project.
+
+  [GITHUB]
+  Q: How do you handle pull request reviews?
+
+  [MACHINE LEARNING]
+  Q: Walk through your end-to-end ML project workflow.
+
+  [NLP]
+  Q: Explain tokenization and its importance in NLP.
+
+  [NUMPY]
+  Q: Explain broadcasting in NumPy with an example.
+
+  [PANDAS]
+  Q: How do you handle missing data in a DataFrame?
+
+  [PROBLEM SOLVING]
+  Q: Walk me through how you debug a production issue.
+
+  [PYTHON]
+  Q: Explain Python's GIL and when it matters.
+
+GENERAL INTERVIEW QUESTIONS:
+----------------------------------------
+  Q: Tell me about yourself.
+  Q: Why do you want this role?
+  Q: What is your greatest professional achievement?
+  Q: Where do you see yourself in 5 years?
+  Q: Do you have any questions for us?

@@ -1,0 +1,35 @@
+--- JOB TITLE ---
+AI Engineer (Systems and Automation)
+
+--- COMPANY ---
+Triumph Tech
+
+--- LOCATION ---
+Hybrid
+
+--- JOB TYPE ---
+Full-time
+
+--- ROLE SUMMARY ---
+Build scalable AI systems and automation workflows using modern ML and MLOps practices.
+
+--- KEY RESPONSIBILITIES ---
+- Build AI systems end-to-end
+- Create ML pipelines
+- Deploy models
+- Build automation workflows
+- Integrate APIs and systems
+
+--- REQUIRED SKILLS ---
+- Python
+- PyTorch / TensorFlow
+- MLOps
+- Docker / Kubernetes
+- APIs
+- Cloud platforms
+
+--- KEY KEYWORDS ---
+ai systems, ml pipelines, mlops, docker, kubernetes, api, automation, llm, rag
+
+--- NOTES ---
+Advanced AI + system design role

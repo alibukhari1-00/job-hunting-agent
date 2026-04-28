@@ -1,0 +1,13 @@
+============================================================
+APPLICATION REMINDERS
+Generated: 2025-01-20 14:30:00
+============================================================
+
+[APP001] Demo Corp — AI Engineer
+  📋 ACTION: Submit application ASAP.
+
+[APP002] Tech Startup — ML Engineer
+  🔔 Follow-up due in 5 day(s) on 2025-01-27.
+
+[APP003] Big Tech Co — Data Scientist
+  ⚡ INTERVIEW in 11 day(s) on 2025-08-01 — Prepare now!

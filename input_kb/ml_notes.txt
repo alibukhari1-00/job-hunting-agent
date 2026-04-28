@@ -1,0 +1,21 @@
+--- MACHINE LEARNING BASICS ---
+
+- Machine Learning is a subset of AI
+- Supervised learning uses labeled data
+- Unsupervised learning finds hidden patterns
+- Overfitting occurs when model memorizes data
+- Underfitting occurs when model is too simple
+
+--- ALGORITHMS ---
+
+- Linear Regression for prediction
+- Logistic Regression for classification
+- Decision Trees for rule-based learning
+- Random Forest for ensemble learning
+- SVM for classification tasks
+
+--- DEEP LEARNING ---
+
+- CNN used for image processing
+- RNN used for sequential data
+- Transformers used in NLP

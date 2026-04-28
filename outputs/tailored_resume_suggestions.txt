@@ -1,0 +1,53 @@
+============================================================
+TAILORED RESUME SUGGESTIONS
+Generated: 2026-04-28 13:49:11
+============================================================
+
+SKILLS TO ADD / HIGHLIGHT:
+----------------------------------------
+  • Add evidence of: agile
+  • Add evidence of: aws
+  • Add evidence of: azure
+  • Add evidence of: feature engineering
+  • Add evidence of: flask
+  • Add evidence of: github
+  • Add evidence of: kubernetes
+  • Add evidence of: numpy
+  • Add evidence of: pandas
+  • Add evidence of: problem solving
+  • Add evidence of: project management
+  • Add evidence of: pytorch
+  • Add evidence of: tensorflow
+
+GENERAL RESUME TIPS:
+----------------------------------------
+  • Quantify achievements (e.g., 'Improved accuracy by 15%')
+  • Use action verbs: built, designed, optimized, deployed
+  • Keep to 1–2 pages; tailor for each application
+  • Include GitHub/portfolio links
+  • List relevant certifications and courses
+
+KNOWLEDGE BASE INSIGHTS:
+----------------------------------------
+--- FILE: agentic_ai_notes.txt ---
+--- AGENTIC AI BASICS ---
+
+- Agentic AI systems can take actions autonomously
+- Agents follow Goal → Plan → Execute → Reflect loop
+- Agents use tools to perform tasks
+
+--- COMPONENTS OF AGENTS ---
+
+- LLM (brain of agent)
+- Tools (APIs, database, search)
+- Memory (short-term, long-term)
+- Planner (decides next steps)
+
+--- TYPES OF AGENTS ---
+
+- Single-step agents
+- Multi-step reasoning agents
+- Tool-using agents
+- Multi-agent systems
+
+--- LANGCHAIN & FRAMEWORK...

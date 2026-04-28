@@ -1,0 +1,36 @@
+--- JOB TITLE ---
+Prompt Engineer
+
+--- COMPANY ---
+Cyberify
+
+--- LOCATION ---
+Multan, Punjab, Pakistan (On-site)
+
+--- JOB TYPE ---
+Full-time
+
+--- ROLE SUMMARY ---
+Cyberify is hiring a Prompt Engineer to design, test, and optimize prompts for AI systems to improve accuracy and performance.
+
+--- KEY RESPONSIBILITIES ---
+- Design and refine prompts for LLMs (ChatGPT, Claude)
+- Test and evaluate AI responses
+- Optimize prompt performance
+- Integrate AI workflows with APIs
+- Analyze outputs and improve system performance
+- Document prompt structures
+
+--- REQUIRED SKILLS ---
+- Prompt Engineering
+- LLM understanding
+- AI tools
+- API integration
+- Analytical skills
+- Problem-solving
+
+--- KEY KEYWORDS ---
+prompt engineering, llm, chatgpt, claude, ai tools, api, optimization, evaluation
+
+--- NOTES ---
+Strong alignment with generative AI and prompt engineering roles

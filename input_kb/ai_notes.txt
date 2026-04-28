@@ -1,0 +1,17 @@
+--- GENERATIVE AI ---
+
+- LLMs generate text based on context
+- Prompt engineering improves output quality
+- RAG combines retrieval + generation
+
+--- AGENTIC AI ---
+
+- Agents can take actions based on goals
+- Tools can be integrated with LLMs
+- Memory improves agent performance
+
+--- NLP ---
+
+- Tokenization splits text
+- Embeddings represent meaning
+- Transformers power modern NLP systems

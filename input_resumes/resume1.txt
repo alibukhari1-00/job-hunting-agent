@@ -1,0 +1,106 @@
+--- NAME ---
+Ali Nawab
+
+--- ROLE ---
+AI Engineer & Backend Developer
+
+--- CONTACT ---
+Phone: +92 333-7919766
+Email: i.alibukhari1@gmail.com
+
+--- SUMMARY ---
+AI Engineer and Backend Developer with experience in building scalable AI systems, automation workflows, and production-ready applications. Specialized in LLMs, RAG pipelines, Agentic AI, Computer Vision, and NLP. Strong expertise in backend systems, APIs, databases, and MLOps.
+
+--- CORE SKILLS ---
+python, machine learning, deep learning, llm, rag, langchain, transformers, prompt engineering, agentic ai, computer vision, nlp, fastapi, rest api, websocket, jwt, rbac, celery, redis, docker, mlflow, dvc, airflow, git, ci/cd, postgresql, mongodb, sql, vector databases
+
+--- AI & GENAI ---
+- LLMs
+- RAG Pipelines
+- LangChain
+- Transformers
+- FAISS
+- Prompt Engineering
+- Agentic AI
+
+--- COMPUTER VISION ---
+- YOLOv8
+- MediaPipe
+- OpenCV
+- ByteTrack
+- Pose Estimation
+- Image Segmentation
+- WebRTC
+
+--- BACKEND ---
+- FastAPI
+- REST APIs
+- WebSockets
+- JWT Authentication
+- RBAC
+- Celery
+- Redis
+
+--- MLOPS & INFRASTRUCTURE ---
+- Docker
+- MLflow
+- DVC
+- Apache Airflow
+- n8n
+- CI/CD
+- Supabase
+
+--- DATABASES ---
+- PostgreSQL
+- MongoDB
+- Vector Databases
+- Oracle Migration
+- SQL
+
+--- EXPERIENCE ---
+AI Engineer / Backend Developer (Jan 2026 – Present)
+Company: Etsolar Pvt Ltd
+
+- Built Enterprise ERP system (Oracle → PostgreSQL migration)
+- Designed scalable database schemas
+- Developed Agentic AI workflows for automation
+- Built AI CCTV system using YOLO + ByteTrack
+- Automated WhatsApp + social workflows (26k+ records)
+
+--- PROJECTS ---
+
+Visure (AI Virtual Try-On)
+- MediaPipe-based body measurement system
+- Real-time WebRTC processing
+- Reduced e-commerce return rates
+
+ERP & Automation System
+- FastAPI backend with RBAC
+- WhatsApp automation system
+- Bulk communication workflows
+
+AI Social Media Automation
+- LLM-based caption generation
+- Smart scheduling system
+- Multi-platform posting (FB, IG, LinkedIn)
+
+Multiple Disease Prediction System
+- SVM, Naive Bayes, Decision Trees
+- Data preprocessing and evaluation
+- Voice output using TTS
+
+Disaster Response RAG System
+- FAISS vector search
+- Real-time emergency guidance
+- Sub-second retrieval system
+
+--- EDUCATION ---
+BS Artificial Intelligence
+FAST-NUCES (2022 – 2026)
+
+--- LEADERSHIP ---
+- Project Lead at Etsolar
+- Team Lead for FYP (Visure)
+
+--- KEY KEYWORDS ---
+python, machine learning, deep learning, llm, rag, langchain, prompt engineering, fastapi, api, docker, mlops, ai systems, backend, nlp, computer vision

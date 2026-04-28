@@ -1,0 +1,38 @@
+--- JOB TITLE ---
+AI/ML Speech-to-Text Python Engineer
+
+--- COMPANY ---
+IRG Global Technologies
+
+--- LOCATION ---
+Lahore, Pakistan
+
+--- JOB TYPE ---
+Full-time
+
+--- SALARY ---
+PKR 80,000 - 100,000
+
+--- ROLE SUMMARY ---
+Develop advanced speech-to-text systems and optimize real-time AI performance.
+
+--- KEY RESPONSIBILITIES ---
+- Build Speech-to-Text (ASR) models
+- Use Whisper, Wav2Vec2, DeepSpeech
+- Process audio datasets
+- Optimize latency and accuracy
+- Deploy models via APIs and Docker
+
+--- REQUIRED SKILLS ---
+- Python
+- PyTorch / TensorFlow
+- Speech processing
+- Audio processing
+- APIs, Docker
+- Model deployment
+
+--- KEY KEYWORDS ---
+speech to text, asr, whisper, wav2vec2, deepspeech, audio processing, python, pytorch
+
+--- NOTES ---
+Specialized AI role in speech systems

@@ -1,0 +1,4 @@
+application_id,company,role,source,status,applied_date,interview_date,follow_up_date,next_action,notes
+APP001,Demo Corp,AI Engineer,LinkedIn,Not Applied,,,,Apply,Auto-added by agent
+APP002,Tech Startup,ML Engineer,Indeed,Applied,2025-01-20,,2025-01-27,Follow up,Submitted portfolio
+APP003,Big Tech Co,Data Scientist,Referral,Interview Scheduled,2025-01-20,2025-08-01,2025-01-27,Prepare for interview,Interview 2025-08-01

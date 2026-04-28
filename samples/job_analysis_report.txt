@@ -1,0 +1,56 @@
+============================================================
+JOB ANALYSIS REPORT
+Generated: 2025-01-20 14:30:00
+============================================================
+
+EXTRACTED JOB REQUIREMENTS:
+----------------------------------------
+   1. agile
+   2. api
+   3. aws
+   4. azure
+   5. communication
+   6. computer vision
+   7. data preprocessing
+   8. database
+   9. deep learning
+  10. docker
+  11. flask
+  12. git
+  13. github
+  14. machine learning
+  15. nlp
+  16. numpy
+  17. pandas
+  18. problem solving
+  19. python
+  20. sql
+
+Total skills identified: 20
+
+RAW JOB CONTENT PREVIEW:
+----------------------------------------
+Job Title: Machine Learning Engineer
+
+Company: TechVision AI
+
+We are looking for a skilled Machine Learning Engineer to join our growing team.
+
+Requirements:
+- Strong proficiency in Python and machine learning frameworks
+- Experience with deep learning, TensorFlow or PyTorch
+- Knowledge of data preprocessing, pandas, numpy
+- Familiarity with SQL and database management
+- Experience with REST API development and Flask
+- Version control using Git and GitHub
+- Understanding of NLP and computer vision
+- Docker and cloud platforms (AWS or Azure) are a plus
+- Strong communication and problem solving skills
+- Agile/Scrum experience preferred
+
+Responsibilities:
+- Design and implement ML models for production
+- Perform feature engineering and data analysis
+- Collaborate with cross-functional teams
+- Deploy models using MLOps best practices
+- Write unit tests and maintain CI/CD pipelines

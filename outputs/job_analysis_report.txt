@@ -1,0 +1,74 @@
+============================================================
+JOB ANALYSIS REPORT
+Generated: 2026-04-28 13:49:11
+============================================================
+
+EXTRACTED JOB REQUIREMENTS:
+----------------------------------------
+   1. agile
+   2. api
+   3. aws
+   4. azure
+   5. ci/cd
+   6. communication
+   7. computer vision
+   8. database
+   9. deep learning
+  10. docker
+  11. feature engineering
+  12. flask
+  13. git
+  14. github
+  15. kubernetes
+  16. leadership
+  17. machine learning
+  18. mlops
+  19. nlp
+  20. numpy
+  21. pandas
+  22. problem solving
+  23. project management
+  24. prompt engineering
+  25. python
+  26. pytorch
+  27. sql
+  28. tensorflow
+
+Total skills identified: 28
+
+RAW JOB CONTENT PREVIEW:
+----------------------------------------
+--- FILE: job1.txt ---
+--- JOB TITLE ---
+Prompt Engineer
+
+--- COMPANY ---
+Cyberify
+
+--- LOCATION ---
+Multan, Punjab, Pakistan (On-site)
+
+--- JOB TYPE ---
+Full-time
+
+--- ROLE SUMMARY ---
+Cyberify is hiring a Prompt Engineer to design, test, and optimize prompts for AI systems to improve accuracy and performance.
+
+--- KEY RESPONSIBILITIES ---
+- Design and refine prompts for LLMs (ChatGPT, Claude)
+- Test and evaluate AI responses
+- Optimize prompt performance
+- Integrate AI workflows with APIs
+- Analyze outputs and improve system performance
+- Document prompt structures
+
+--- REQUIRED SKILLS ---
+- Prompt Engineering
+- LLM understanding
+- AI tools
+- API integration
+- Analytical skills
+- Problem-solving
+
+--- KEY KEYWORDS ---
+prompt engineering, llm, chatgpt, claude, ai tools, api, optimization...

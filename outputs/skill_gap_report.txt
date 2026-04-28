@@ -1,0 +1,42 @@
+============================================================
+SKILL GAP ANALYSIS REPORT
+Generated: 2026-04-28 13:49:11
+============================================================
+
+MATCH SCORE: 53.57%
+
+MATCHED SKILLS (15):
+----------------------------------------
+  ✔ api
+  ✔ ci/cd
+  ✔ communication
+  ✔ computer vision
+  ✔ database
+  ✔ deep learning
+  ✔ docker
+  ✔ git
+  ✔ leadership
+  ✔ machine learning
+  ✔ mlops
+  ✔ nlp
+  ✔ prompt engineering
+  ✔ python
+  ✔ sql
+
+MISSING SKILLS (13):
+----------------------------------------
+  ✘ agile
+  ✘ aws
+  ✘ azure
+  ✘ feature engineering
+  ✘ flask
+  ✘ github
+  ✘ kubernetes
+  ✘ numpy
+  ✘ pandas
+  ✘ problem solving
+  ✘ project management
+  ✘ pytorch
+  ✘ tensorflow
+
+Assessment: MODERATE match — address skill gaps before applying.

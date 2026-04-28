@@ -1,0 +1,256 @@
+============================================================
+JOB ANALYSIS REPORT
+Generated: 2026-04-28 13:49:11
+============================================================
+
+EXTRACTED JOB REQUIREMENTS:
+----------------------------------------
+   1. agile
+   2. api
+   3. aws
+   4. azure
+   5. ci/cd
+   6. communication
+   7. computer vision
+   8. database
+   9. deep learning
+  10. docker
+  11. feature engineering
+  12. flask
+  13. git
+  14. github
+  15. kubernetes
+  16. leadership
+  17. machine learning
+  18. mlops
+  19. nlp
+  20. numpy
+  21. pandas
+  22. problem solving
+  23. project management
+  24. prompt engineering
+  25. python
+  26. pytorch
+  27. sql
+  28. tensorflow
+
+Total skills identified: 28
+
+RAW JOB CONTENT PREVIEW:
+----------------------------------------
+--- FILE: job1.txt ---
+--- JOB TITLE ---
+Prompt Engineer
+
+--- COMPANY ---
+Cyberify
+
+--- LOCATION ---
+Multan, Punjab, Pakistan (On-site)
+
+--- JOB TYPE ---
+Full-time
+
+--- ROLE SUMMARY ---
+Cyberify is hiring a Prompt Engineer to design, test, and optimize prompts for AI systems to improve accuracy and performance.
+
+--- KEY RESPONSIBILITIES ---
+- Design and refine prompts for LLMs (ChatGPT, Claude)
+- Test and evaluate AI responses
+- Optimize prompt performance
+- Integrate AI workflows with APIs
+- Analyze outputs and improve system performance
+- Document prompt structures
+
+--- REQUIRED SKILLS ---
+- Prompt Engineering
+- LLM understanding
+- AI tools
+- API integration
+- Analytical skills
+- Problem-solving
+
+--- KEY KEYWORDS ---
+prompt engineering, llm, chatgpt, claude, ai tools, api, optimization...
+
+
+============================================================
+SKILL GAP ANALYSIS REPORT
+Generated: 2026-04-28 13:49:11
+============================================================
+
+MATCH SCORE: 53.57%
+
+MATCHED SKILLS (15):
+----------------------------------------
+  ✔ api
+  ✔ ci/cd
+  ✔ communication
+  ✔ computer vision
+  ✔ database
+  ✔ deep learning
+  ✔ docker
+  ✔ git
+  ✔ leadership
+  ✔ machine learning
+  ✔ mlops
+  ✔ nlp
+  ✔ prompt engineering
+  ✔ python
+  ✔ sql
+
+MISSING SKILLS (13):
+----------------------------------------
+  ✘ agile
+  ✘ aws
+  ✘ azure
+  ✘ feature engineering
+  ✘ flask
+  ✘ github
+  ✘ kubernetes
+  ✘ numpy
+  ✘ pandas
+  ✘ problem solving
+  ✘ project management
+  ✘ pytorch
+  ✘ tensorflow
+
+Assessment: MODERATE match — address skill gaps before applying.
+
+
+============================================================
+TAILORED RESUME SUGGESTIONS
+Generated: 2026-04-28 13:49:11
+============================================================
+
+SKILLS TO ADD / HIGHLIGHT:
+----------------------------------------
+  • Add evidence of: agile
+  • Add evidence of: aws
+  • Add evidence of: azure
+  • Add evidence of: feature engineering
+  • Add evidence of: flask
+  • Add evidence of: github
+  • Add evidence of: kubernetes
+  • Add evidence of: numpy
+  • Add evidence of: pandas
+  • Add evidence of: problem solving
+  • Add evidence of: project management
+  • Add evidence of: pytorch
+  • Add evidence of: tensorflow
+
+GENERAL RESUME TIPS:
+----------------------------------------
+  • Quantify achievements (e.g., 'Improved accuracy by 15%')
+  • Use action verbs: built, designed, optimized, deployed
+  • Keep to 1–2 pages; tailor for each application
+  • Include GitHub/portfolio links
+  • List relevant certifications and courses
+
+KNOWLEDGE BASE INSIGHTS:
+----------------------------------------
+--- FILE: agentic_ai_notes.txt ---
+--- AGENTIC AI BASICS ---
+
+- Agentic AI systems can take actions autonomously
+- Agents follow Goal → Plan → Execute → Reflect loop
+- Agents use tools to perform tasks
+
+--- COMPONENTS OF AGENTS ---
+
+- LLM (brain of agent)
+- Tools (APIs, database, search)
+- Memory (short-term, long-term)
+- Planner (decides next steps)
+
+--- TYPES OF AGENTS ---
+
+- Single-step agents
+- Multi-step reasoning agents
+- Tool-using agents
+- Multi-agent systems
+
+--- LANGCHAIN & FRAMEWORK...
+
+
+============================================================
+INTERVIEW PREPARATION QUESTIONS
+Generated: 2026-04-28 13:49:11
+============================================================
+
+ROLE-SPECIFIC QUESTIONS (based on job requirements):
+----------------------------------------
+
+  [AGILE]
+  Q: How do you manage sprint planning and retrospectives?
+
+  [API]
+  Q: How do you design a RESTful API? Describe versioning.
+
+  [AWS]
+  Q: Describe a cloud architecture you have designed.
+
+  [COMMUNICATION]
+  Q: Describe a time you explained a technical concept to a non-technical stakeholder.
+
+  [DEEP LEARNING]
+  Q: Compare CNNs and RNNs — when do you use each?
+
+  [DOCKER]
+  Q: What is the difference between an image and a container?
+
+  [FLASK]
+  Q: How do you secure a Flask REST API?
+
+  [GIT]
+  Q: Explain Git branching strategy for a team project.
+
+  [GITHUB]
+  Q: How do you handle pull request reviews?
+
+  [LEADERSHIP]
+  Q: Tell me about a time you led a team under pressure.
+
+  [MACHINE LEARNING]
+  Q: Walk through your end-to-end ML project workflow.
+
+  [NLP]
+  Q: Explain tokenization and its importance in NLP.
+
+  [NUMPY]
+  Q: Explain broadcasting in NumPy with an example.
+
+  [PANDAS]
+  Q: How do you handle missing data in a DataFrame?
+
+  [PROBLEM SOLVING]
+  Q: Walk me through how you debug a production issue.
+
+  [PYTHON]
+  Q: Explain Python's GIL and when it matters.
+
+  [SQL]
+  Q: Write a query to find the second-highest salary.
+
+GENERAL INTERVIEW QUESTIONS:
+----------------------------------------
+  Q: Tell me about yourself.
+  Q: Why do you want this role?
+  Q: What is your greatest professional achievement?
+  Q: Where do you see yourself in 5 years?
+  Q: Do you have any questions for us?
+
+
+============================================================
+APPLICATION REMINDERS
+Generated: 2026-04-28 13:49:11
+============================================================
+
+[APP001] Demo Corp — AI Engineer
+  📋 ACTION: Submit application ASAP.
+
+[APP002] Tech Startup — ML Engineer
+  🔔 Follow-up due in 7 day(s) on 2026-05-05.
+
+[APP003] Big Tech Co — Data Scientist
+  ✔ Interview was on 2025-08-01 — Send thank-you note if not done.

@@ -1,0 +1,46 @@
+--- AGENTIC AI BASICS ---
+
+- Agentic AI systems can take actions autonomously
+- Agents follow Goal → Plan → Execute → Reflect loop
+- Agents use tools to perform tasks
+
+--- COMPONENTS OF AGENTS ---
+
+- LLM (brain of agent)
+- Tools (APIs, database, search)
+- Memory (short-term, long-term)
+- Planner (decides next steps)
+
+--- TYPES OF AGENTS ---
+
+- Single-step agents
+- Multi-step reasoning agents
+- Tool-using agents
+- Multi-agent systems
+
+--- LANGCHAIN & FRAMEWORKS ---
+
+- LangChain used to build AI agents
+- LangGraph for workflow-based agents
+- Agents can call APIs, databases, functions
+
+--- WORKFLOWS ---
+
+- Input → Reason → Action → Output
+- Agents can loop until goal achieved
+- Decision-making based on context
+
+--- REAL-WORLD USE CASES ---
+
+- Chatbots
+- Automation systems
+- AI assistants
+- Task planning systems
+
+--- INTERVIEW QUESTIONS ---
+
+- What is Agentic AI?
+- How does an AI agent work?
+- Difference between chatbot and agent?
+- What is tool usage in agents?
+- Explain agent workflow

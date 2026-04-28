@@ -1,0 +1,6 @@
+# CareerPrep Job-Hunting Agent — Dependencies
+# All features use Python standard library only — no external packages required.
+# Optional: install below for future Streamlit UI extension
+
+# streamlit>=1.28.0
+# pandas>=2.0.0

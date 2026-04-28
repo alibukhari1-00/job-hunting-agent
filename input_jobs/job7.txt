@@ -1,0 +1,47 @@
+--- JOB TITLE ---
+ERP Business System Analyst
+
+--- COMPANY ---
+Mountainise Inc
+
+--- LOCATION ---
+Lahore, Pakistan (On-site, DHA Phase 8)
+
+--- JOB TYPE ---
+Full-time
+
+--- EXPERIENCE ---
+Minimum 1 year
+
+--- ROLE SUMMARY ---
+Looking for an ERP Business System Analyst with experience in enterprise systems, integrations, and workflow automation. The role focuses on aligning business processes with ERP systems and ensuring seamless data flow across applications.
+
+--- KEY RESPONSIBILITIES ---
+- Analyze business requirements and map them to ERP solutions
+- Configure and optimize ERP modules (finance, operations, supply chain)
+- Integrate ERP systems with third-party tools (CRM, HR, BI)
+- Automate and improve business workflows
+- Create documentation, process maps, and test plans
+- Support system upgrades and data migration
+- Troubleshoot ERP-related issues
+
+--- REQUIRED SKILLS ---
+- ERP systems (SAP, Oracle, Microsoft Dynamics, ServiceNow)
+- API integration
+- System integration
+- Database understanding
+- Business process mapping
+- Data governance
+- Documentation skills
+- Analytical thinking
+- Communication skills
+
+--- PREFERRED SKILLS ---
+- Agile methodology
+- Project management tools
+
+--- KEY KEYWORDS ---
+erp, sap, oracle, microsoft dynamics, servicenow, api, system integration, database, business process, workflow automation, data governance
+
+--- NOTES ---
+Strong business + technical hybrid role focused on ERP systems and integrations

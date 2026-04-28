@@ -1,0 +1,10 @@
+============================================================
+RESUME SCORING REPORT
+Generated: 2026-04-28 13:49:11
+============================================================
+  Skill Match Score  : 53.57%
+  Resume Length Score: 98.5% (word count: 394)
+  Action Verb Score  : 30% (3 verbs found)
+  FINAL RESUME SCORE : 57.84 / 100
+
+  Grade: C — Average

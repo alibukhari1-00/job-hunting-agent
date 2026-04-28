@@ -1,0 +1,41 @@
+--- JOB TITLE ---
+Machine Learning Engineer
+
+--- COMPANY ---
+TechVision AI
+
+--- LOCATION ---
+Not specified
+
+--- JOB TYPE ---
+Full-time
+
+--- ROLE SUMMARY ---
+Design and deploy machine learning models for production applications.
+
+--- KEY RESPONSIBILITIES ---
+- Build ML models
+- Perform feature engineering
+- Collaborate with teams
+- Deploy models using MLOps
+- Maintain CI/CD pipelines
+
+--- REQUIRED SKILLS ---
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow / PyTorch
+- Pandas, NumPy
+- SQL
+- REST APIs (Flask)
+- Git / GitHub
+- NLP
+- Computer Vision
+- Docker
+- Cloud (AWS / Azure)
+
+--- KEY KEYWORDS ---
+python, machine learning, deep learning, tensorflow, pytorch, pandas, numpy, sql, flask, api, git, docker, aws, azure, mlops
+
+--- NOTES ---
+General ML engineering role with production focus

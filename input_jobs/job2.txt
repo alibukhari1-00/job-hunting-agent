@@ -1,0 +1,37 @@
+--- JOB TITLE ---
+Software Engineer – Machine Learning
+
+--- COMPANY ---
+InfoTech Group
+
+--- LOCATION ---
+Lahore, Pakistan (On-site)
+
+--- JOB TYPE ---
+Full-time
+
+--- ROLE SUMMARY ---
+Looking for an ML Engineer to build, deploy, and optimize machine learning models in production.
+
+--- KEY RESPONSIBILITIES ---
+- Build ML models (classification, regression, clustering)
+- Perform feature engineering
+- Work with large datasets
+- Develop deep learning models (CNN, RNN, Transformers)
+- Deploy ML systems using APIs
+- Optimize model performance
+
+--- REQUIRED SKILLS ---
+- Machine Learning
+- Deep Learning
+- Pandas, NumPy
+- APIs
+- Docker, Kubernetes
+- MLOps tools
+- Cloud computing
+
+--- KEY KEYWORDS ---
+machine learning, deep learning, cnn, rnn, transformers, pandas, numpy, mlops, docker, kubernetes
+
+--- NOTES ---
+Production-level ML engineering role

@@ -1,0 +1,34 @@
+--- JOB TITLE ---
+AI Powered Mobile App Developer
+
+--- COMPANY ---
+Smart Working
+
+--- LOCATION ---
+Remote
+
+--- JOB TYPE ---
+Full-time
+
+--- ROLE SUMMARY ---
+Lead development of AI-powered mobile applications and backend systems in a startup environment.
+
+--- KEY RESPONSIBILITIES ---
+- Develop mobile apps (iOS/Android)
+- Use LLMs and AI tools
+- Build backend systems
+- Manage deployments
+- Work closely with product leadership
+
+--- REQUIRED SKILLS ---
+- Mobile development (Android/iOS)
+- AI tools and LLMs
+- Prompt engineering
+- Backend development
+- Product thinking
+
+--- KEY KEYWORDS ---
+mobile development, android, ios, llm, ai tools, prompt engineering, backend, product development
+
+--- NOTES ---
+Hybrid role combining AI and mobile engineering

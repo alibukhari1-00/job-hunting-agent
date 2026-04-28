@@ -1,0 +1,46 @@
+--- GENERATIVE AI BASICS ---
+
+- Generative AI creates new content (text, images, audio)
+- LLMs (Large Language Models) generate human-like text
+- Examples: GPT, Claude, LLaMA
+
+--- LLM CONCEPTS ---
+
+- Tokens are units of text
+- Context window defines memory size
+- Temperature controls randomness
+- Top-p controls diversity
+
+--- PROMPT ENGINEERING ---
+
+- Clear instructions improve output quality
+- Few-shot prompting provides examples
+- Chain-of-thought improves reasoning
+- Role prompting sets behavior
+
+--- RAG (RETRIEVAL AUGMENTED GENERATION) ---
+
+- Combines search + generation
+- Uses vector databases (FAISS)
+- Improves accuracy with external data
+- Reduces hallucinations
+
+--- EMBEDDINGS ---
+
+- Convert text into vectors
+- Used for similarity search
+- Important for semantic search
+
+--- FINE-TUNING ---
+
+- Improves model on specific data
+- Expensive compared to prompting
+- Used for specialized tasks
+
+--- INTERVIEW QUESTIONS ---
+
+- What is an LLM?
+- What is prompt engineering?
+- Difference between RAG and fine-tuning?
+- What are embeddings?
+- What is temperature in LLMs?

@@ -1,0 +1,20 @@
+--- GENERAL INTERVIEW QUESTIONS ---
+
+- Tell me about yourself
+- Explain your final year project
+- What are your strengths and weaknesses?
+- Why should we hire you?
+
+--- TECHNICAL QUESTIONS ---
+
+- Explain machine learning pipeline
+- What is overfitting and how to avoid it?
+- Difference between supervised and unsupervised learning
+- Explain REST API
+- What is Docker?
+
+--- BEHAVIORAL QUESTIONS ---
+
+- Describe a challenging project
+- How do you handle deadlines?
+- Tell me about teamwork experience

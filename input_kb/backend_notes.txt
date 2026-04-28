@@ -1,0 +1,43 @@
+--- BACKEND DEVELOPMENT BASICS ---
+
+- Backend handles server-side logic, databases, and APIs
+- REST APIs are used for communication between client and server
+- CRUD operations: Create, Read, Update, Delete
+- Authentication ensures secure access (JWT, OAuth)
+- Authorization controls user permissions (RBAC)
+
+--- FASTAPI ---
+
+- FastAPI is a modern Python web framework
+- Supports async programming
+- Automatically generates API docs (Swagger)
+- Used for high-performance APIs
+
+--- DATABASES ---
+
+- SQL databases: PostgreSQL, MySQL
+- NoSQL databases: MongoDB
+- Indexing improves query performance
+- Transactions ensure data consistency
+
+--- SYSTEM DESIGN ---
+
+- Scalability: ability to handle more users
+- Load balancing distributes traffic
+- Caching improves performance (Redis)
+- Microservices break system into smaller services
+
+--- DEVOPS & DEPLOYMENT ---
+
+- Docker used for containerization
+- CI/CD automates testing and deployment
+- Logging and monitoring are important
+- APIs deployed on cloud (AWS, Azure)
+
+--- INTERVIEW QUESTIONS ---
+
+- What is REST API?
+- Difference between SQL and NoSQL?
+- What is JWT authentication?
+- How does FastAPI work?
+- What is caching and why is it used?
